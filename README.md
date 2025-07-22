@@ -1,4 +1,4 @@
-
+Download the project and open cmd and run bleow mentioned commands 
 
 cd backend
 
